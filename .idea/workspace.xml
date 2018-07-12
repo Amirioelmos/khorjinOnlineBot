@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62ce7742-6791-439e-ac65-6048710ccd81" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/AmirioBot$workBySQL.coverage" NAME="workBySQL Coverage Results" MODIFIED="1531314968698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AmirioBot$AmirioBot.coverage" NAME="AmirioBot Coverage Results" MODIFIED="1531374690968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AmirioBot$monitBot.coverage" NAME="monitBot Coverage Results" MODIFIED="1530417293195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="khorjin@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="khorjin@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="khorjin@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="khorjin: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="khorjin@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="khorjin: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="cart: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="khorjin@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="khorjin: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="cart_good: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="khorjin@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="khorjin: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="good: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="khorjin@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="khorjin: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="user: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AmirioBot.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AmirioBot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="274" column="144" selection-start-line="274" selection-start-column="144" selection-end-line="274" selection-end-column="144" />
+              <folding>
+                <element signature="e#45#59#0" expanded="true" />
+                <element signature="e#1057#1802#0" />
+                <element signature="e#1856#2222#0" />
+                <element signature="e#1050#1340#0" />
+                <element signature="e#1381#1431#0" />
+                <element signature="e#1472#1522#0" />
+                <element signature="e#2331#3048#0" />
+                <element signature="e#3178#4489#0" />
+                <element signature="e#4657#5328#0" />
+                <element signature="e#5368#5867#0" />
+                <element signature="e#5907#6368#0" />
+                <element signature="e#6408#7747#0" />
+                <element signature="e#10112#10384#0" />
+                <element signature="e#10421#10762#0" />
+                <element signature="e#10796#11070#0" />
+                <element signature="e#11109#11451#0" />
+                <element signature="e#11486#11762#0" />
+                <element signature="e#11802#12147#0" />
+                <element signature="e#12180#12499#0" />
+                <element signature="e#12538#12886#0" />
+                <element signature="e#12942#13861#0" />
+                <element signature="e#19691#20331#0" />
+                <element signature="e#19922#20209#0" />
+                <element signature="e#19448#20434#0" />
+                <element signature="e#20469#21493#0" />
+                <element signature="e#21529#22573#0" />
+                <element signature="e#22606#24468#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workBySQL.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/workBySQL.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="52" column="33" lean-forward="true" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="good" pinned="false" current-in-tab="false">
+        <entry file="das://02cf1a5b-7e04-4c9d-a306-d08323ba8a20/schema/khorjin/table/good">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user" pinned="false" current-in-tab="false">
+        <entry file="das://02cf1a5b-7e04-4c9d-a306-d08323ba8a20/schema/khorjin/table/user">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cart" pinned="false" current-in-tab="false">
+        <entry file="das://02cf1a5b-7e04-4c9d-a306-d08323ba8a20/schema/khorjin/table/cart">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="botmetro.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/botmetro.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2485">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#126#140#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cart_good" pinned="false" current-in-tab="false">
+        <entry file="das://02cf1a5b-7e04-4c9d-a306-d08323ba8a20/schema/khorjin/table/cart_good">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sql.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sql.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-76">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DATABASE/02cf1a5b-7e04-4c9d-a306-d08323ba8a20.SCHEMA:khorjin" pinned="false" current-in-tab="true">
+        <entry file="uml://DATABASE/02cf1a5b-7e04-4c9d-a306-d08323ba8a20.SCHEMA:khorjin">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>DATABASE</ID>
+              <OriginalElement>02cf1a5b-7e04-4c9d-a306-d08323ba8a20.SCHEMA:khorjin</OriginalElement>
+              <nodes>
+                <node x="-218.0" y="178.0">02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.good</node>
+                <node x="420.0" y="5.0">02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.user</node>
+                <node x="451.0" y="253.0">02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.cart</node>
+                <node x="134.25" y="452.0">02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.cart_good</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.cart" target="02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.user">
+                  <point x="0.0" y="-88.0" />
+                  <point x="0.0" y="88.0" />
+                </edge>
+                <edge source="02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.cart_good" target="02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.cart">
+                  <point x="39.5" y="-51.5" />
+                  <point x="252.75" y="427.0" />
+                  <point x="325.0" y="427.0" />
+                  <point x="0.0" y="88.0" />
+                </edge>
+                <edge source="02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.cart_good" target="02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.good">
+                  <point x="-39.5" y="-51.5" />
+                  <point x="173.75" y="427.0" />
+                  <point x="101.5" y="427.0" />
+                  <point x="0.0" y="64.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="220.0" y="277.5" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Key columns</Category>
+                <Category>Columns</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>user_id</find>
+      <find>fet</find>
+      <find>kwa</find>
+      <find>number</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/02cf1a5b-7e04-4c9d-a306-d08323ba8a20/console.sql" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/monitBot.py" />
+        <option value="02cf1a5b-7e04-4c9d-a306-d08323ba8a20/schema/khorjin/table/user.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/02cf1a5b-7e04-4c9d-a306-d08323ba8a20/console_1.sql" />
+        <option value="$PROJECT_DIR$/sql.sql" />
+        <option value="$PROJECT_DIR$/workBySQL.py" />
+        <option value="$PROJECT_DIR$/AmirioBot.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="292" />
+    <option name="y" value="24" />
+    <option name="width" value="1400" />
+    <option name="height" value="1028" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AmirioBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmirioBot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmirioBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="AmirioBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5 (AmirioBot) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="AmirioBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5 (AmirioBot) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmirioBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5 (AmirioBot) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="balebot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmirioBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5 (AmirioBot) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="balebot" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmirioBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5 (AmirioBot) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="balebot" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="messages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmirioBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5 (AmirioBot) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="balebot" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="messages" type="462c0819:PsiDirectoryNode" />
+              <item name="banking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmirioBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.AmirioBot">
+    <configuration name="AmirioBot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AmirioBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AmirioBot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="monitBot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AmirioBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/monitBot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="workBySQL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AmirioBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workBySQL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.workBySQL" />
+      <item itemvalue="Python.AmirioBot" />
+      <item itemvalue="Python.monitBot" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.AmirioBot" />
+        <item itemvalue="Python.workBySQL" />
+        <item itemvalue="Python.monitBot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62ce7742-6791-439e-ac65-6048710ccd81" name="Default" comment="" />
+      <created>1529585941843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529585941843</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32924336" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.32924336" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19730458" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.24204852" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/monitBot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="53" column="4" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AmirioBot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1935">
+          <caret line="144" column="21" lean-forward="true" selection-start-line="144" selection-start-column="21" selection-end-line="144" selection-end-column="21" />
+          <folding>
+            <element signature="e#45#59#0" expanded="true" />
+            <element signature="e#1057#1802#0" />
+            <element signature="e#1856#2222#0" />
+            <element signature="e#1050#1340#0" />
+            <element signature="e#1381#1431#0" />
+            <element signature="e#1472#1522#0" />
+            <element signature="e#2331#3048#0" />
+            <element signature="e#3178#4489#0" />
+            <element signature="e#4657#5328#0" />
+            <element signature="e#5368#5867#0" />
+            <element signature="e#5907#6368#0" />
+            <element signature="e#6408#7747#0" />
+            <element signature="e#10112#10384#0" />
+            <element signature="e#10421#10762#0" />
+            <element signature="e#10796#11070#0" />
+            <element signature="e#11109#11451#0" />
+            <element signature="e#11486#11762#0" />
+            <element signature="e#11802#12147#0" />
+            <element signature="e#12180#12499#0" />
+            <element signature="e#12538#12886#0" />
+            <element signature="e#12942#13861#0" />
+            <element signature="e#19691#20331#0" />
+            <element signature="e#19922#20209#0" />
+            <element signature="e#19448#20434#0" />
+            <element signature="e#20469#21493#0" />
+            <element signature="e#21529#22573#0" />
+            <element signature="e#22606#24468#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workBySQL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/botmetro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="76" column="54" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/botparking1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3645">
+          <caret line="251" column="64" selection-start-line="251" selection-start-column="64" selection-end-line="251" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/botparking (1).sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://02cf1a5b-7e04-4c9d-a306-d08323ba8a20/schema/khorjin/table/cart">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/02cf1a5b-7e04-4c9d-a306-d08323ba8a20/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AmirioBot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="144" column="20" selection-start-line="144" selection-start-column="20" selection-end-line="144" selection-end-column="20" />
+          <folding>
+            <element signature="e#45#59#0" expanded="true" />
+            <element signature="e#1057#1802#0" />
+            <element signature="e#1856#2222#0" />
+            <element signature="e#1050#1340#0" />
+            <element signature="e#1381#1431#0" />
+            <element signature="e#1472#1522#0" />
+            <element signature="e#2331#3048#0" />
+            <element signature="e#3178#4489#0" />
+            <element signature="e#4657#5328#0" />
+            <element signature="e#5368#5867#0" />
+            <element signature="e#5907#6368#0" />
+            <element signature="e#6408#7747#0" />
+            <element signature="e#10112#10384#0" />
+            <element signature="e#10421#10762#0" />
+            <element signature="e#10796#11070#0" />
+            <element signature="e#11109#11451#0" />
+            <element signature="e#11486#11762#0" />
+            <element signature="e#11802#12147#0" />
+            <element signature="e#12180#12499#0" />
+            <element signature="e#12538#12886#0" />
+            <element signature="e#12942#13861#0" />
+            <element signature="e#19691#20331#0" />
+            <element signature="e#19922#20209#0" />
+            <element signature="e#19448#20434#0" />
+            <element signature="e#20469#21493#0" />
+            <element signature="e#21529#22573#0" />
+            <element signature="e#22606#24468#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workBySQL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/botmetro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="76" column="54" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/botparking1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3645">
+          <caret line="251" column="64" selection-start-line="251" selection-start-column="64" selection-end-line="251" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/botparking (1).sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://02cf1a5b-7e04-4c9d-a306-d08323ba8a20/schema/khorjin/table/cart">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/02cf1a5b-7e04-4c9d-a306-d08323ba8a20/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AmirioBot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="140" column="27" selection-start-line="140" selection-start-column="27" selection-end-line="140" selection-end-column="27" />
+          <folding>
+            <element signature="e#45#59#0" expanded="true" />
+            <element signature="e#1057#1802#0" />
+            <element signature="e#1856#2222#0" />
+            <element signature="e#1050#1340#0" />
+            <element signature="e#1381#1431#0" />
+            <element signature="e#1472#1522#0" />
+            <element signature="e#2331#3048#0" />
+            <element signature="e#3178#4489#0" />
+            <element signature="e#4657#5328#0" />
+            <element signature="e#5368#5867#0" />
+            <element signature="e#5907#6368#0" />
+            <element signature="e#6408#7747#0" />
+            <element signature="e#10112#10384#0" />
+            <element signature="e#10421#10762#0" />
+            <element signature="e#10796#11070#0" />
+            <element signature="e#11109#11451#0" />
+            <element signature="e#11486#11762#0" />
+            <element signature="e#11802#12147#0" />
+            <element signature="e#12180#12499#0" />
+            <element signature="e#12538#12886#0" />
+            <element signature="e#12942#13861#0" />
+            <element signature="e#19691#20331#0" />
+            <element signature="e#19922#20209#0" />
+            <element signature="e#19448#20434#0" />
+            <element signature="e#20469#21493#0" />
+            <element signature="e#21529#22573#0" />
+            <element signature="e#22606#24468#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workBySQL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/botmetro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="76" column="54" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/botparking (1).sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://02cf1a5b-7e04-4c9d-a306-d08323ba8a20/schema/khorjin/table/cart">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/02cf1a5b-7e04-4c9d-a306-d08323ba8a20/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/botparking1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4155">
+          <caret line="285" column="58" selection-start-line="285" selection-start-column="47" selection-end-line="285" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AmirioBot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="140" column="27" selection-start-line="140" selection-start-column="27" selection-end-line="140" selection-end-column="27" />
+          <folding>
+            <element signature="e#45#59#0" expanded="true" />
+            <element signature="e#1057#1802#0" />
+            <element signature="e#1856#2222#0" />
+            <element signature="e#1050#1340#0" />
+            <element signature="e#1381#1431#0" />
+            <element signature="e#1472#1522#0" />
+            <element signature="e#2331#3048#0" />
+            <element signature="e#3178#4489#0" />
+            <element signature="e#4657#5328#0" />
+            <element signature="e#5368#5867#0" />
+            <element signature="e#5907#6368#0" />
+            <element signature="e#6408#7747#0" />
+            <element signature="e#10112#10384#0" />
+            <element signature="e#10421#10762#0" />
+            <element signature="e#10796#11070#0" />
+            <element signature="e#11109#11451#0" />
+            <element signature="e#11486#11762#0" />
+            <element signature="e#11802#12147#0" />
+            <element signature="e#12180#12499#0" />
+            <element signature="e#12538#12886#0" />
+            <element signature="e#12942#13861#0" />
+            <element signature="e#19691#20331#0" />
+            <element signature="e#19922#20209#0" />
+            <element signature="e#19448#20434#0" />
+            <element signature="e#20469#21493#0" />
+            <element signature="e#21529#22573#0" />
+            <element signature="e#22606#24468#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workBySQL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/botmetro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="76" column="54" lean-forward="true" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/botparking (1).sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://02cf1a5b-7e04-4c9d-a306-d08323ba8a20/schema/khorjin/table/cart">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/02cf1a5b-7e04-4c9d-a306-d08323ba8a20/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/botparking1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4155">
+          <caret line="285" column="58" selection-start-line="285" selection-start-column="47" selection-end-line="285" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/02cf1a5b-7e04-4c9d-a306-d08323ba8a20/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monitBot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://02cf1a5b-7e04-4c9d-a306-d08323ba8a20/schema/khorjin/table/user.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/02cf1a5b-7e04-4c9d-a306-d08323ba8a20/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/botparking (1).sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/balebot/models/base_models/peer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://02cf1a5b-7e04-4c9d-a306-d08323ba8a20/schema/khorjin/table/cart/index/fk_user_id">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="279" column="8" selection-start-line="279" selection-start-column="8" selection-end-line="279" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/botparking1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="260" column="51" selection-start-line="260" selection-start-column="48" selection-end-line="260" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/balebot/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/balebot/filters/bank_message_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/balebot/models/messages/banking/bank_message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://02cf1a5b-7e04-4c9d-a306-d08323ba8a20/schema/khorjin/table/cart_good">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/botmetro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2485">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#126#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://02cf1a5b-7e04-4c9d-a306-d08323ba8a20/schema/khorjin/table/good">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workBySQL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="52" column="33" lean-forward="true" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://02cf1a5b-7e04-4c9d-a306-d08323ba8a20/schema/khorjin/table/cart">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://02cf1a5b-7e04-4c9d-a306-d08323ba8a20/schema/khorjin/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AmirioBot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="274" column="144" selection-start-line="274" selection-start-column="144" selection-end-line="274" selection-end-column="144" />
+          <folding>
+            <element signature="e#45#59#0" expanded="true" />
+            <element signature="e#1057#1802#0" />
+            <element signature="e#1856#2222#0" />
+            <element signature="e#1050#1340#0" />
+            <element signature="e#1381#1431#0" />
+            <element signature="e#1472#1522#0" />
+            <element signature="e#2331#3048#0" />
+            <element signature="e#3178#4489#0" />
+            <element signature="e#4657#5328#0" />
+            <element signature="e#5368#5867#0" />
+            <element signature="e#5907#6368#0" />
+            <element signature="e#6408#7747#0" />
+            <element signature="e#10112#10384#0" />
+            <element signature="e#10421#10762#0" />
+            <element signature="e#10796#11070#0" />
+            <element signature="e#11109#11451#0" />
+            <element signature="e#11486#11762#0" />
+            <element signature="e#11802#12147#0" />
+            <element signature="e#12180#12499#0" />
+            <element signature="e#12538#12886#0" />
+            <element signature="e#12942#13861#0" />
+            <element signature="e#19691#20331#0" />
+            <element signature="e#19922#20209#0" />
+            <element signature="e#19448#20434#0" />
+            <element signature="e#20469#21493#0" />
+            <element signature="e#21529#22573#0" />
+            <element signature="e#22606#24468#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/02cf1a5b-7e04-4c9d-a306-d08323ba8a20.SCHEMA:khorjin">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>02cf1a5b-7e04-4c9d-a306-d08323ba8a20.SCHEMA:khorjin</OriginalElement>
+          <nodes>
+            <node x="-218.0" y="178.0">02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.good</node>
+            <node x="420.0" y="5.0">02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.user</node>
+            <node x="451.0" y="253.0">02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.cart</node>
+            <node x="134.25" y="452.0">02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.cart_good</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.cart" target="02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.user">
+              <point x="0.0" y="-88.0" />
+              <point x="0.0" y="88.0" />
+            </edge>
+            <edge source="02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.cart_good" target="02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.cart">
+              <point x="39.5" y="-51.5" />
+              <point x="252.75" y="427.0" />
+              <point x="325.0" y="427.0" />
+              <point x="0.0" y="88.0" />
+            </edge>
+            <edge source="02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.cart_good" target="02cf1a5b-7e04-4c9d-a306-d08323ba8a20.TABLE:khorjin.good">
+              <point x="-39.5" y="-51.5" />
+              <point x="173.75" y="427.0" />
+              <point x="101.5" y="427.0" />
+              <point x="0.0" y="64.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="220.0" y="277.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
